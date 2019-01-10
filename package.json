@@ -1,0 +1,11 @@
+{
+  "name": "reactexample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Thunderducky/reactexample.git",
+  "author": "Eric Scott <scottzillaster@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
